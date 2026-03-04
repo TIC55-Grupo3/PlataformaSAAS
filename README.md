@@ -1,7 +1,7 @@
  SaaS para Microempreendedores - Projeto BRISA (ULBRA)
 
  📌 Sobre o Projeto
-Este projeto está a ser desenvolvido como parte da imersão técnica do programa BRISA (ULBRA). O objetivo é criar uma solução SaaS (Software as a Service) focada em ajudar microempreendedores a gerir os seus negócios de forma simplificada, utilizando Python e inteligência artificial para análise de dados.
+Este projeto está a ser desenvolvido como parte da imersão técnica do programa BRISA (ULBRA). O objetivo é criar uma solução SaaS (Software as a Service) focada em ajudar microempreendedores a gerir os seus negócios de forma simplificada.
 
  🚀 Funcionalidades (Em desenvolvimento)
 - [x] Estrutura base do projeto e configuração de ambiente.
